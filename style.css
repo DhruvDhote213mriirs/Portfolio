@@ -1,0 +1,230 @@
+*
+{
+    margin: 0 ;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+.one
+{
+    background:linear-gradient(120deg,#1DB954,#191414) ;
+    height: 50vh;
+    
+}
+h1
+{
+    font-family: 'Oswald', sans-serif;
+    margin-left:40px ;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 50px;
+    
+}
+ul
+{
+    display: flex;
+    flex-direction: row ;
+    
+    font-family: 'Oswald', sans-serif; 
+ 
+    font-size: 20px;
+}
+ul li
+{
+    
+    list-style: none;
+    margin:0px 12px ;
+    
+    
+}
+ul li a
+{
+    text-decoration: none;
+    color: white;
+    transition: all 1s linear;
+}
+ul li a:hover
+{
+    color: aqua;
+}
+h2
+{
+    color: whitesmoke;
+    margin-left: 640px;
+    margin-top: 50px;
+    font-size: 60px;
+    font-family: 'Oswald', sans-serif; 
+}
+.two
+{
+    
+    height: 100vh;
+    background:linear-gradient(-120deg, #f3f3f5, #E90B8B, #352384, #333447);
+   
+    
+}
+.ab
+{
+    font-family: 'Oswald', sans-serif;
+    margin-left:40px ;
+    color: whitesmoke;
+    text-align: center;  
+    font-size: 50px; 
+
+}
+.p1
+{
+    text-align: center;
+    margin-left: 40px ;
+    margin-top: 100px;
+    font-family: 'Oswald', sans-serif;
+    color: whitesmoke;
+    font-size: 50px; 
+}
+.three
+{
+    background:linear-gradient(120deg, #185494, #EE1D23, #FAAF18, #FFFFFF);
+    height: 50vh;
+}
+.sk
+{
+    font-family: 'Oswald', sans-serif;
+    margin-left:40px ;
+    color: whitesmoke;
+    text-align: center;  
+    font-size: 50px; 
+
+}
+.skilllist
+{
+    margin-left: 540px;
+    margin-top: 100px;
+}
+.skilllist li
+{
+    color: white;
+    font-size: 60px; 
+    
+}
+.four
+{
+    background:linear-gradient(-120deg, #4285f4, #34a853, #fbbc05, #ea4335);
+    height: 50vh;
+}
+.ctimer
+{
+    width: 20%;
+    height: 40%;
+    margin-left: 165px;
+    margin-top: 50px;
+}
+.timer
+{
+    font-family: 'Oswald', sans-serif; 
+    font-size:40px;
+    text-align: left;
+    margin-left: 180px;
+    margin-top: 10px;
+    color: white;
+    display: inline;
+}
+.por
+{
+    font-family: 'Oswald', sans-serif; 
+    font-size:40px;
+    text-align: left;
+    margin-left: 270px;
+    margin-top: 10px;
+    color: white;
+    display: inline;
+}
+.bootstrap
+{
+    font-family: 'Oswald', sans-serif; 
+    font-size:40px;
+    text-align: left;
+    margin-left: 180px;
+    margin-top: 10px;
+    color: white;
+    display: inline;
+}
+.projlink
+{
+    text-decoration: none;
+    color: white;
+    transition: all 1s linear;
+}
+.projlink:hover
+{
+    color: aqua;
+}
+.five
+{
+    background:linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
+    height: 70vh;
+}
+.fname
+{
+    font-size: 30px;
+}
+.fname
+{
+    font-size: 30px;
+}
+.fname
+{
+    font-size: 30px;
+}
+.lname
+{
+    font-size: 30px;
+}
+.mobile
+{
+    font-size: 30px;
+}
+.email
+{
+    font-size: 30px;
+}
+.form-control
+{
+    font-size: 30px;
+}
+.reg
+{
+    font-size: 30px;
+}
+.details
+{
+    margin-left:390px ;
+    font-family: 'Oswald', sans-serif; 
+}
+.fa
+{
+    text-decoration: none;
+    color:white ;
+    margin-left: 10px;
+    transition: all 1s linear;
+   
+}
+.fa-linkedin
+{
+  font-size: 100px;
+  margin-left: 740px;
+}
+.fa-linkedin:hover
+{
+    color: #4285f4;
+}
+.fa-facebook:hover
+{
+    color: #4285f4;
+}
+.fa-twitter:hover
+{
+    color: #4285f4;
+}
+.fa-github:hover
+{
+    color: black;
+}
